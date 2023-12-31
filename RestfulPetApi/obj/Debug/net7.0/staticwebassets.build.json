@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6wJIMaIa6pkptfEKkNGX+vVF9+MkU1FNz4lVyR0wMNU=",
+  "Source": "RestfulPetApi",
+  "BasePath": "_content/RestfulPetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
